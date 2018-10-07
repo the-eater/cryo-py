@@ -1,0 +1,4 @@
+docopt
+requests
+git+https://github.com/kragniz/python-etcd3.git#egg=etcd3
+toml
